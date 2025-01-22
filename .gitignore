@@ -1,0 +1,32 @@
+# Общие исключения для .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.tmp
+
+# Rider
+.idea/
+*.iml
+*.sln.iml
+*.suo
+*.user
+*.sln.DotSettings
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи и временные файлы
+*.log
+*.vs/
+.vscode/
+*.swp
+
+# Пакеты NuGet
+*.nupkg
+.nuget/
