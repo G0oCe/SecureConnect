@@ -7,8 +7,4 @@
         <RootNamespace>SecureConnect</RootNamespace>
     </PropertyGroup>
 
-    <ItemGroup>
-      <Folder Include="Shared\Models\" />
-    </ItemGroup>
-
 </Project>
